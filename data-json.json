@@ -9,82 +9,77 @@
       "photo":  [
         {
           "id": 1,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/1.jpeg",
           "alt": "photo"
       },
         {
           "id": 2,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/2.jpeg",
           "alt": "photo"
         },
         {
           "id": 3,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/3.jpeg",
           "alt": "photo"
         },
         {
           "id": 4,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/4.jpeg",
           "alt": "photo"
         },
         {
           "id": 5,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/5.jpeg",
           "alt": "photo"
         },
         {
           "id": 6,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/6.jpeg",
           "alt": "photo"
         },
         {
           "id": 7,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/7.jpeg",
           "alt": "photo"
         },
         {
           "id": 8,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/8.jpeg",
           "alt": "photo"
         },
         {
           "id": 9,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/9.jpeg",
           "alt": "photo"
         },
         {
           "id": 10,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/10.jpeg",
           "alt": "photo"
         },
         {
           "id": 11,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/11.jpeg",
           "alt": "photo"
         },
         {
           "id": 12,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/12.jpeg",
           "alt": "photo"
         },
         {
           "id": 13,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/13.jpeg",
           "alt": "photo"
         },
         {
           "id": 14,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/14.jpeg",
           "alt": "photo"
         },
         {
           "id": 15,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
-          "alt": "photo"
-        },
-        {
-          "id": 16,
-          "url": "https://drive.google.com/file/d/1ypVrlsnQPALAxbqoIgAEjXgM24JyLIQ0/view?usp=sharing",
+          "url": "https://github.com/avoreshin/json-api/blob/main/Images/15.jpeg",
           "alt": "photo"
         }],
       "price": 1000000,
@@ -96,7 +91,8 @@
       "contact": {
         "name": "Владимир",
         "mobile": 89173334444,
-        "email": "vova@mail.ru"
+        "email": "vova@mail.ru",
+        "description": "Я собственник! Автомобиль полностью обслужен, перебрана ходовая, новые стойки, тормозные диски  , колодки передние и задние, рулевая рейка и т.д. Хорошая комплектация, салон кожа, раздельный климат контроль, датчик света, подогрев сидений, автозеркала , блютуз, флешкарта и т.д.",
       }
       }
   ]
