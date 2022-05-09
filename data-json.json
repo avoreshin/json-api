@@ -93,6 +93,194 @@
         "mobile": 89173334444,
         "email": "vova@mail.ru"},
         "description": "Я собственник! Автомобиль полностью обслужен, перебрана ходовая, новые стойки, тормозные диски  , колодки передние и задние, рулевая рейка и т.д. Хорошая комплектация, салон кожа, раздельный климат контроль, датчик света, подогрев сидений, автозеркала , блютуз, флешкарта и т.д."
+      },
+    {
+      "id": 1,
+      "marka": "Hyundai",
+      "model": "Avante",
+      "engine": "бензин, 1.6л",
+      "year": "2011г",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/1.jpeg",
+          "alt": "photo"
+      },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/2.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/3.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 4,
+          "url": "https://avoreshin.github.io/json-api/Images/4.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 5,
+          "url": "https://avoreshin.github.io/json-api/Images/5.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 6,
+          "url": "https://avoreshin.github.io/json-api/Images/6.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 7,
+          "url": "https://avoreshin.github.io/json-api/Images/7.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 8,
+          "url": "https://avoreshin.github.io/json-api/Images/8.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 9,
+          "url": "https://avoreshin.github.io/json-api/Images/9.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 10,
+          "url": "https://avoreshin.github.io/json-api/Images/10.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 11,
+          "url": "https://avoreshin.github.io/json-api/Images/11.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 12,
+          "url": "https://avoreshin.github.io/json-api/Images/12.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 13,
+          "url": "https://avoreshin.github.io/json-api/Images/13.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 14,
+          "url": "https://avoreshin.github.io/json-api/Images/14.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 15,
+          "url": "https://avoreshin.github.io/json-api/Images/15.jpeg",
+          "alt": "photo"
+        }],
+      "price": 1000000,
+      "transmission": 	"automatic transmission",
+      "drive_unit": "передний",
+      "body_type": "седан",
+      "color": "белый",
+      "Mileage":"180000",
+      "contact": {
+        "name": "Владимир",
+        "mobile": 89173334444,
+        "email": "vova@mail.ru"},
+        "description": "Я собственник! Автомобиль полностью обслужен, перебрана ходовая, новые стойки, тормозные диски  , колодки передние и задние, рулевая рейка и т.д. Хорошая комплектация, салон кожа, раздельный климат контроль, датчик света, подогрев сидений, автозеркала , блютуз, флешкарта и т.д."
+      },
+    {
+      "id": 1,
+      "marka": "Hyundai",
+      "model": "Avante",
+      "engine": "бензин, 1.6л",
+      "year": "2011г",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/1.jpeg",
+          "alt": "photo"
+      },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/2.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/3.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 4,
+          "url": "https://avoreshin.github.io/json-api/Images/4.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 5,
+          "url": "https://avoreshin.github.io/json-api/Images/5.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 6,
+          "url": "https://avoreshin.github.io/json-api/Images/6.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 7,
+          "url": "https://avoreshin.github.io/json-api/Images/7.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 8,
+          "url": "https://avoreshin.github.io/json-api/Images/8.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 9,
+          "url": "https://avoreshin.github.io/json-api/Images/9.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 10,
+          "url": "https://avoreshin.github.io/json-api/Images/10.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 11,
+          "url": "https://avoreshin.github.io/json-api/Images/11.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 12,
+          "url": "https://avoreshin.github.io/json-api/Images/12.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 13,
+          "url": "https://avoreshin.github.io/json-api/Images/13.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 14,
+          "url": "https://avoreshin.github.io/json-api/Images/14.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 15,
+          "url": "https://avoreshin.github.io/json-api/Images/15.jpeg",
+          "alt": "photo"
+        }],
+      "price": 1000000,
+      "transmission": 	"automatic transmission",
+      "drive_unit": "передний",
+      "body_type": "седан",
+      "color": "белый",
+      "Mileage":"180000",
+      "contact": {
+        "name": "Владимир",
+        "mobile": 89173334444,
+        "email": "vova@mail.ru"},
+        "description": "Я собственник! Автомобиль полностью обслужен, перебрана ходовая, новые стойки, тормозные диски  , колодки передние и задние, рулевая рейка и т.д. Хорошая комплектация, салон кожа, раздельный климат контроль, датчик света, подогрев сидений, автозеркала , блютуз, флешкарта и т.д."
       }
   ]
 }
