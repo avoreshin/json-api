@@ -1,7 +1,9 @@
 {
   "data": [
     {
+      "spec_card": false,
       "id": 1,
+      "city": "Барнаул",
       "marka": "Hyundai",
       "model": "Avante",
       "engine": "бензин, 1.6л",
@@ -9,278 +11,666 @@
       "photo":  [
         {
           "id": 1,
-          "url": "https://avoreshin.github.io/json-api/Images/1.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/1.jpeg",
           "alt": "photo"
       },
         {
           "id": 2,
-          "url": "https://avoreshin.github.io/json-api/Images/2.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/2.jpeg",
           "alt": "photo"
         },
         {
           "id": 3,
-          "url": "https://avoreshin.github.io/json-api/Images/3.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/3.jpeg",
           "alt": "photo"
         },
         {
           "id": 4,
-          "url": "https://avoreshin.github.io/json-api/Images/4.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/4.jpeg",
           "alt": "photo"
         },
         {
           "id": 5,
-          "url": "https://avoreshin.github.io/json-api/Images/5.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/5.jpeg",
           "alt": "photo"
         },
         {
           "id": 6,
-          "url": "https://avoreshin.github.io/json-api/Images/6.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/6.jpeg",
           "alt": "photo"
         },
         {
           "id": 7,
-          "url": "https://avoreshin.github.io/json-api/Images/7.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/7.jpeg",
           "alt": "photo"
         },
         {
           "id": 8,
-          "url": "https://avoreshin.github.io/json-api/Images/8.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/8.jpeg",
           "alt": "photo"
         },
         {
           "id": 9,
-          "url": "https://avoreshin.github.io/json-api/Images/9.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/9.jpeg",
           "alt": "photo"
         },
         {
           "id": 10,
-          "url": "https://avoreshin.github.io/json-api/Images/10.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/10.jpeg",
           "alt": "photo"
         },
         {
           "id": 11,
-          "url": "https://avoreshin.github.io/json-api/Images/11.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/11.jpeg",
           "alt": "photo"
         },
         {
           "id": 12,
-          "url": "https://avoreshin.github.io/json-api/Images/12.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/12.jpeg",
           "alt": "photo"
         },
         {
           "id": 13,
-          "url": "https://avoreshin.github.io/json-api/Images/13.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/13.jpeg",
           "alt": "photo"
         },
         {
           "id": 14,
-          "url": "https://avoreshin.github.io/json-api/Images/14.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/14.jpeg",
           "alt": "photo"
         },
         {
           "id": 15,
-          "url": "https://avoreshin.github.io/json-api/Images/15.jpeg",
+          "url": "https://avoreshin.github.io/json-api/Images/id1/15.jpeg",
           "alt": "photo"
         }],
-      "price": 1000000,
+      "price": "1000000",
       "transmission": 	"automatic transmission",
       "drive_unit": "передний",
       "body_type": "седан",
       "color": "белый",
       "Mileage":"180000",
       "contact": {
-        "name": "Владимир",
-        "mobile": 89173334444,
-        "email": "vova@mail.ru"},
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
         "description": "Я собственник! Автомобиль полностью обслужен, перебрана ходовая, новые стойки, тормозные диски  , колодки передние и задние, рулевая рейка и т.д. Хорошая комплектация, салон кожа, раздельный климат контроль, датчик света, подогрев сидений, автозеркала , блютуз, флешкарта и т.д."
       },
     {
-      "id": 2,
-      "marka": "Hyundai",
-      "model": "Avante",
-      "engine": "бензин, 1.6л",
-      "year": "2011г",
-      "photo":  [
-        {
-          "id": 1,
-          "url": "https://avoreshin.github.io/json-api/Images/1.jpeg",
-          "alt": "photo"
+    "spec_card": false,
+    "id": 2,
+    "city": "Барнаул",
+    "marka": "BMW",
+    "model": "5-Series",
+    "engine": 	"бензин, 3.0 л",
+    "year": "2008",
+    "photo":  [
+      {
+        "id": 1,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/1.jpeg",
+        "alt": "photo"
       },
-        {
-          "id": 2,
-          "url": "https://avoreshin.github.io/json-api/Images/2.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 3,
-          "url": "https://avoreshin.github.io/json-api/Images/3.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 4,
-          "url": "https://avoreshin.github.io/json-api/Images/4.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 5,
-          "url": "https://avoreshin.github.io/json-api/Images/5.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 6,
-          "url": "https://avoreshin.github.io/json-api/Images/6.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 7,
-          "url": "https://avoreshin.github.io/json-api/Images/7.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 8,
-          "url": "https://avoreshin.github.io/json-api/Images/8.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 9,
-          "url": "https://avoreshin.github.io/json-api/Images/9.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 10,
-          "url": "https://avoreshin.github.io/json-api/Images/10.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 11,
-          "url": "https://avoreshin.github.io/json-api/Images/11.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 12,
-          "url": "https://avoreshin.github.io/json-api/Images/12.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 13,
-          "url": "https://avoreshin.github.io/json-api/Images/13.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 14,
-          "url": "https://avoreshin.github.io/json-api/Images/14.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 15,
-          "url": "https://avoreshin.github.io/json-api/Images/15.jpeg",
-          "alt": "photo"
-        }],
-      "price": 1000000,
-      "transmission": 	"automatic transmission",
-      "drive_unit": "передний",
-      "body_type": "седан",
-      "color": "белый",
-      "Mileage":"180000",
-      "contact": {
-        "name": "Владимир",
-        "mobile": 89173334444,
-        "email": "vova@mail.ru"},
-        "description": "Я собственник! Автомобиль полностью обслужен, перебрана ходовая, новые стойки, тормозные диски  , колодки передние и задние, рулевая рейка и т.д. Хорошая комплектация, салон кожа, раздельный климат контроль, датчик света, подогрев сидений, автозеркала , блютуз, флешкарта и т.д."
+      {
+        "id": 2,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/2.jpeg",
+        "alt": "photo"
       },
-    {
-      "id": 3,
-      "marka": "Hyundai",
-      "model": "Avante",
-      "engine": "бензин, 1.6л",
-      "year": "2011г",
-      "photo":  [
-        {
-          "id": 1,
-          "url": "https://avoreshin.github.io/json-api/Images/1.jpeg",
-          "alt": "photo"
+      {
+        "id": 3,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/3.jpeg",
+        "alt": "photo"
       },
-        {
-          "id": 2,
-          "url": "https://avoreshin.github.io/json-api/Images/2.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 3,
-          "url": "https://avoreshin.github.io/json-api/Images/3.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 4,
-          "url": "https://avoreshin.github.io/json-api/Images/4.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 5,
-          "url": "https://avoreshin.github.io/json-api/Images/5.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 6,
-          "url": "https://avoreshin.github.io/json-api/Images/6.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 7,
-          "url": "https://avoreshin.github.io/json-api/Images/7.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 8,
-          "url": "https://avoreshin.github.io/json-api/Images/8.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 9,
-          "url": "https://avoreshin.github.io/json-api/Images/9.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 10,
-          "url": "https://avoreshin.github.io/json-api/Images/10.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 11,
-          "url": "https://avoreshin.github.io/json-api/Images/11.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 12,
-          "url": "https://avoreshin.github.io/json-api/Images/12.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 13,
-          "url": "https://avoreshin.github.io/json-api/Images/13.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 14,
-          "url": "https://avoreshin.github.io/json-api/Images/14.jpeg",
-          "alt": "photo"
-        },
-        {
-          "id": 15,
-          "url": "https://avoreshin.github.io/json-api/Images/15.jpeg",
-          "alt": "photo"
-        }],
-      "price": 1000000,
-      "transmission": 	"automatic transmission",
-      "drive_unit": "передний",
-      "body_type": "седан",
-      "color": "белый",
-      "Mileage":"180000",
-      "contact": {
-        "name": "Владимир",
-        "mobile": 89173334444,
-        "email": "vova@mail.ru"},
-        "description": "Я собственник! Автомобиль полностью обслужен, перебрана ходовая, новые стойки, тормозные диски  , колодки передние и задние, рулевая рейка и т.д. Хорошая комплектация, салон кожа, раздельный климат контроль, датчик света, подогрев сидений, автозеркала , блютуз, флешкарта и т.д."
+      {
+        "id": 4,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/4.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 5,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/5.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 6,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/6.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 7,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/7.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 8,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/8.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 9,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/9.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 10,
+        "url": "https://avoreshin.github.io/json-api/Images/id2/10.jpeg",
+        "alt": "photo"
       }
+      ],
+    "price": "850000",
+    "transmission": 	"automatic transmission",
+    "drive_unit": "задний",
+    "body_type": "седан",
+    "color": "черный",
+    "Mileage":"200000",
+    "contact": {
+      "name": "Aleksey",
+      "mobile": "+7-888-88-88",
+      "email": "alex1956@mail.ru"},
+    "description": "Срочно!!! Продаю живую легенду . Готов на любые проверки . Обслуживался только в салоне BMW. Оптика - Led . Выхлоп - систем. Бамперы порогов М , богатая комплектация, сидение М комфорт ломающий функцией , с подогревами , лето/зима комплектация, не дымит , масло не жрет , движок и ходовка в отличном состоянии, готов на любые проверки , торг у Капота , Машина стоит на Армянском учёт "
+    },
+    {
+    "spec_card": false,
+    "id": 3,
+    "city": "Барнаул",
+    "marka": "Outback",
+    "model": "Subaru",
+    "engine": 	"бензин, 2.5 л",
+    "year": "2015",
+    "photo":  [
+      {
+        "id": 1,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/1.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 2,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/2.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 3,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/3.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 4,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/4.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 5,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/5.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 6,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/6.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 7,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/7.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 8,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/8.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 9,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/9.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 10,
+        "url": "https://avoreshin.github.io/json-api/Images/id3/10.jpeg",
+        "alt": "photo"
+
+      }],
+    "price": "2245000",
+    "transmission": 	"вариатор",
+    "drive_unit": "4WD",
+    "body_type": "универсал",
+    "color": "черный",
+    "Mileage":"130000",
+    "contact": {
+      "name": "Aleksey",
+      "mobile": "+7-888-88-88",
+      "email": "alex1956@mail.ru"},
+    "description": "Цена подарок за данный автомобиль!!!\nМашина дилерская с прозрачной историей НЕ АМЕРИКА\nАвтомобиль в отличном состоянии как\nтехнический так и внешне. Кузов автомобиля 100% в заводском окрасе\nС самого начала эксплуатации перед машины полностью в бронеплёнке по задние двери\nКомплектация самая максимальная:\nЭлектрический люк, навигация, led фары, круиз контроль, перфорированный кожаный салон с подогревом всех сидений памятью водительского и электроприводом передних, электропривод багажника, музыка HARMAN/KARDON, два комплекта ковриков.\nДополнительно установлены:\nДефлекторы на окна, замок на АКПП, защита картера, LED в ДХО\nПолностью обслужен . Имеются заказ-наряды за всю историю обслуживания автомобиля. Недавно поменяны тормозные диски и колодки в круг\nПТС оригинал, два ключа, два комплекта резины. Новый аккумулятор. Поменяно масло в двигателе со всеми фильтрами\nЮридический чистый. "
+    },
+    {
+      "spec_card": false,
+      "id": 4,
+      "city": "Москва",
+      "marka": "Audi",
+      "model": "Q8",
+      "engine": "бензин, 3.0 л, гибрид",
+      "year": "2018",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/1.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/2.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/3.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 4,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/4.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 5,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/5.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 6,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/6.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 7,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/7.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 8,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/8.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 9,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/9.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 10,
+          "url": "https://avoreshin.github.io/json-api/Images/id4/10.jpeg",
+          "alt": "photo"
+        }],
+      "price": "10800000",
+      "transmission": 	"АККП",
+      "drive_unit": "4WD",
+      "body_type": "универсал",
+      "color": "оранжевый",
+      "Mileage":"25 670",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Что идет дополнением, помимо максимальной комплектации авто:\n1) Зимние колеса на дисках R20 в идеальном состоянии(сейчас их сдал на сезонное хранение, фото колес и накладной - прилагаются)"
+    },
+    {
+    "spec_card": false,
+    "id": 5,
+    "city": "Москва",
+    "marka": "Mercedes-Benz",
+    "model": "GLS-Class",
+    "engine": "бензин, 3.0 л, гибрид",
+    "year": "2018",
+    "photo":  [
+      {
+        "id": 1,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/1.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 2,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/2.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 3,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/3.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 4,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/4.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 5,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/5.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 6,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/6.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 7,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/7.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 8,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/8.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 9,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/9.jpeg",
+        "alt": "photo"
+      },
+      {
+        "id": 10,
+        "url": "https://avoreshin.github.io/json-api/Images/id5/10.jpeg",
+        "alt": "photo"
+
+      }],
+    "price": "14990000",
+    "transmission": 	"АККП",
+    "drive_unit": "4WD",
+    "body_type": "универсал",
+    "color": "серый",
+    "Mileage":"2100",
+    "contact": {
+      "name": "Aleksey",
+      "mobile": "+7-888-88-88",
+      "email": "alex1956@mail.ru"},
+    "description": "Что идет дополнением, помимо максимальной комплектации авто:\n1) Зимние колеса на дисках R20 в идеальном состоянии(сейчас их сдал на сезонное хранение, фото колес и накладной - прилагаются)"
+    },
+
+    {
+      "spec_card": false,
+      "id": 6,
+      "city": "Москва",
+      "marka": "Infinit",
+      "model": "QX80",
+      "engine": "бензин, 5.6 л",
+      "year": "2021",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/1.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/2.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/3.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 4,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/4.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 5,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/5.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 6,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/6.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 7,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/7.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 8,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/8.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 9,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/9.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 10,
+          "url": "https://avoreshin.github.io/json-api/Images/id6/10.jpeg",
+          "alt": "photo"
+
+        }],
+      "price": "10 450 000",
+      "transmission": 	"АККП",
+      "drive_unit": "4WD",
+      "body_type": "универсал",
+      "color": "белый",
+      "Mileage":"21",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Что идет дополнением, помимо максимальной комплектации авто:\n1) Зимние колеса на дисках R20 в идеальном состоянии(сейчас их сдал на сезонное хранение, фото колес и накладной - прилагаются)"
+    },
+
+    {
+      "spec_card": false,
+      "id": 7,
+      "city": "Москва",
+      "marka": "BMW",
+      "model": "X6",
+      "engine": "бензин, 4.4 л",
+      "year": "2020",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/1.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/2.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/3.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 4,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/4.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 5,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/5.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 6,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/6.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 7,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/7.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 8,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/8.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 9,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/9.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 10,
+          "url": "https://avoreshin.github.io/json-api/Images/id7/10.jpeg",
+          "alt": "photo"
+
+        }],
+      "price": "14 200 000",
+      "transmission": 	"АККП",
+      "drive_unit": "4WD",
+      "body_type": "универсал",
+      "color": "серый",
+      "Mileage":"30000",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Что идет дополнением, помимо максимальной комплектации авто:\n1) Зимние колеса на дисках R20 в идеальном состоянии(сейчас их сдал на сезонное хранение, фото колес и накладной - прилагаются)"
+    },
+    {
+      "spec_card": false,
+      "id": 8,
+      "city": "Москва",
+      "marka": "Mercedes-Benz",
+      "model": "GLE",
+      "engine": "бензин, 4.4 л",
+      "year": "2016 ",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id8/1.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id8/2.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id8/3.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 4,
+          "url": "https://avoreshin.github.io/json-api/Images/id8/4.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 5,
+          "url": "https://avoreshin.github.io/json-api/Images/id8/5.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 6,
+          "url": "https://avoreshin.github.io/json-api/Images/id8/6.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 7,
+          "url": "https://avoreshin.github.io/json-api/Imagesid8//7.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 8,
+          "url": "https://avoreshin.github.io/json-api/Images/id8/8.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 9,
+          "url": "https://avoreshin.github.io/json-api/Images/id8/9.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 10,
+          "url": "https://avoreshin.github.io/json-api/Images/id8/10.jpeg",
+          "alt": "photo"
+                }],
+      "price": "3 294 700",
+      "transmission": 	"АККП",
+      "drive_unit": "4WD",
+      "body_type": "универсал",
+      "color": "серый",
+      "Mileage":"189 887",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Что идет дополнением, помимо максимальной комплектации авто:\n1) Зимние колеса на дисках R20 в идеальном состоянии(сейчас их сдал на сезонное хранение, фото колес и накладной - прилагаются)"
+    },
+    {
+      "spec_card": false,
+      "id": 9,
+      "city": "Москва",
+      "marka": "Lexus ",
+      "model": "RX300",
+      "engine": "бензин, 2.0 л",
+      "year": "2021 ",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/1.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/2.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/3.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 4,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/4.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 5,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/5.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 6,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/6.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 7,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/7.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 8,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/8.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 9,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/9.jpeg",
+          "alt": "photo"
+        },
+        {
+          "id": 10,
+          "url": "https://avoreshin.github.io/json-api/Images/id9/10.jpeg",
+          "alt": "photo"
+
+        }],
+      "price": "7 200 000",
+      "transmission": 	"АККП",
+      "drive_unit": "4WD",
+      "body_type": "универсал",
+      "color": "белый",
+      "Mileage":"10000",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "НОВЫЙ БЕЗ ПРОБЕГА, на гарантии официальный установлено дополнительное оборудование сигнализация"
+    }
   ]
 }
