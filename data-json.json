@@ -671,6 +671,436 @@
         "mobile": "+7-888-88-88",
         "email": "alex1956@mail.ru"},
       "description": "НОВЫЙ БЕЗ ПРОБЕГА, на гарантии официальный установлено дополнительное оборудование сигнализация"
+    },
+    {
+      "spec_card": false,
+      "id": 10,
+      "city": "Казань",
+      "marka": "Kia ",
+      "model": "Optima",
+      "engine": "бензин, 2.4 л",
+      "year": "2019 ",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id10/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id10/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id10/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "2 650 000",
+      "transmission": 	"АККП",
+      "drive_unit": "передний",
+      "body_type": "седан",
+      "color": "белый",
+      "Mileage":"15 000",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Продаю Киа Оптима GT LINE, максимальная комплектация. Автомобиль в идеале, как новый. Пробег реальный."
+    },
+    {
+      "spec_card": false,
+      "id": 11,
+      "city": "Казань",
+      "marka": "Mercedes-Benz ",
+      "model": "G-Class",
+      "engine": "бензин, 4.0 л",
+      "year": "2019 ",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id11/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id11/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id11/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "16 100 000",
+      "transmission": 	"АККП",
+      "drive_unit": "4WD",
+      "body_type": "джип/suv 5 дв.",
+      "color": "черный",
+      "Mileage":"50 000",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Автомобиль в идеальном состоянии ближе к новому , обслуживался только у официального дилера ( поменял все накладки в круг с тормозными дисками и сделал ТО перед продажей ), машина на гарантии. Машина без ДТП , 1000% без единого крашенного элемента и сколов ."
+    },
+    {
+      "spec_card": false,
+      "id": 12,
+      "city": "Казань",
+      "marka": "BMW",
+      "model": "X6",
+      "engine": "дизель, 3.0 л",
+      "year": "2021",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id12/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id12/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id12/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "10 700 000",
+      "transmission": 	"АКПП",
+      "drive_unit": "4WD",
+      "body_type": "джип",
+      "color": "черный",
+      "Mileage":"7 000",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Из дополнительного оборудования установлено:\n- На официальном дилере опция 4А2 Crafted Clarity (хрустальные органы управления)\n- Спутниковая охранная система (проплачено до конца 2022 года) \n- Полная оклейка автомобиля в прозрачную полиуретановую плёнку LLumar (лучшая на рынке) "
+    },
+    {
+      "spec_card": false,
+      "id": 13,
+      "city": "Москва",
+      "marka": "Honda",
+      "model": "Stepwgn",
+      "engine": "бензин, 2.0 л, гибрид",
+      "year": "2018",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id13/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id13/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id13/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "3 000 000",
+      "transmission": 	"вариатор",
+      "drive_unit": "передний",
+      "body_type": "минивэн",
+      "color": "белый",
+      "Mileage":"36 000",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Таможня 10.01.2022\nДата выпуска т/с - 12.2018\nАукционная оценка 4, 5 А\nСделано - ТО\nМашина в Москве"
+    },
+    {
+      "spec_card": false,
+      "id": 14,
+      "city": "Москва",
+      "marka": "BMW",
+      "model": "5-Series",
+      "engine": "дизель, 3.0 л",
+      "year": "2022",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id14/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id14/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id14/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "9 749 000",
+      "transmission": 	"АКПП",
+      "drive_unit": "4WD",
+      "body_type": "седан",
+      "color": "черный",
+      "Mileage":"2 600",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "BMW 530d xDrive 2022г.в. Комплектация M Sport Plus Edition 2021. Сборка Германия\nМАШИНА НОВАЯ! (дром написал, что пробег слишком маленький, поэтому поставил 2600км. Реально 26км). Я хозяин, физ.лицо"
+    },
+    {
+      "spec_card": false,
+      "id": 15,
+      "city": "Наро-Фоминск",
+      "marka": "Hummer",
+      "model": "H2",
+      "engine": "бензин, 6.0 л",
+      "year": "2003",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id15/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id15/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id15/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "2 300 000",
+      "transmission": 	"АКПП",
+      "drive_unit": "4WD",
+      "body_type": "джип/suv 5 дв.",
+      "color": "черный",
+      "Mileage":"",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "ПО ПТС ЛЕГКОВОЙ, КАТЕГОРИЯ С. НАЛОГ НЕБОЛЬШОЙ.\nПо факту второй хозяин с ноября 2021, все остальные записи манипуцляции с номерами. Хотел пользоваться подольше, были планы купить автодом к нему и путешествовать, но обстоятельства изменились. Привезен новым в РФ и тут куплен в 2003 году."
+    },
+    {
+      "spec_card": false,
+      "id": 16,
+      "city": "Москва",
+      "marka": "Nissan",
+      "model": "Note",
+      "engine": "бензин, 1.2 л, гибрид",
+      "year": "2018",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id16/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id16/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id16/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "1 088 000",
+      "transmission": 	"АКПП",
+      "drive_unit": "передний",
+      "body_type": "хэтчбэк",
+      "color": "белый",
+      "Mileage":"9 000",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "ГИБРИД Nissan Note 1200сс ., Новая гибридная установка разработана инженерами Ниссан и признана самой лучшей гибридной установкой во всем мире"
+    },
+    {
+      "spec_card": false,
+      "id": 17,
+      "city": "Москва",
+      "marka": "Volvo",
+      "model": "XC90",
+      "engine": "бензин, 2.0 л",
+      "year": "2015",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id17/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id17/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id17/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "3 530 000",
+      "transmission": 	"АКПП",
+      "drive_unit": "4WD",
+      "body_type": "джип",
+      "color": "черный",
+      "Mileage":"92 000",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Продаём автомобиль который последние три года был отличным спутником как в путешествиях так и в поездках по Москве, много приятных и позитивны моментов связано с этой машиной."
+    },
+    {
+      "spec_card": false,
+      "id": 18,
+      "city": "Москва",
+      "marka": "Lamborghini",
+      "model": "Urus",
+      "engine": "бензин, 4.0 л",
+      "year": "2019",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id18/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id18/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id18/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "29 969 000",
+      "transmission": 	"АКПП",
+      "drive_unit": "4WD",
+      "body_type": "хэтчбэк",
+      "color": "красный",
+      "Mileage":"22 000",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Lamborghini URUS c небольшим пробегом.\nАвтомобиль на гарантии.\nПо кузову зоны риска автомобиля защищены пленкой."
+    },
+    {
+      "spec_card": false,
+      "id": 19,
+      "city": "Москва",
+      "marka": "Lamborghini",
+      "model": "Urus",
+      "engine": "бензин, 4.0 л",
+      "year": "2020",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id19/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id19/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id19/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "29 900 000",
+      "transmission": 	"АКПП",
+      "drive_unit": "4WD",
+      "body_type": "n/a",
+      "color": "желтый",
+      "Mileage":"17 500",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Люк панорамный электрический\nОстекление двойное термотонированное с шумопоглощением\nПакет «Стиль» черный глянец\nДополнительные режимы TERRA, SABBIA"
+    },{
+      "spec_card": false,
+      "id": 20,
+      "city": "Владивосток",
+      "marka": "Toyota",
+      "model": "Sai",
+      "engine": "бензин, 2.4 л, гибрид",
+      "year": "2015",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id20/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id20/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id20/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "1 650 000",
+      "transmission": 	"вариатор",
+      "drive_unit": "передний",
+      "body_type": "седан",
+      "color": "серый",
+      "Mileage":"112 470",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Автомобиль в отличном техническом состоянии.\nВсе системы работают исправно.\nОдин хозяин\nСистема дистанционного доступа Smart Entry\nЗапуск с кнопки Push Start.\nШтатные сонары вкруг (Парктроник)\nДатчик дождя.\nДатчик света\n8 подушек безопасности!\n3 режима езды (ECO, NORMAL, SPORT)."
+    },{
+      "spec_card": false,
+      "id": 21,
+      "city": "Владивосток",
+      "marka": "Toyota",
+      "model": "Aqua",
+      "engine": "бензин, 1.5 л, гибрид",
+      "year": "2017",
+      "photo":  [
+        {
+          "id": 1,
+          "url": "https://avoreshin.github.io/json-api/Images/id21/1.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 2,
+          "url": "https://avoreshin.github.io/json-api/Images/id21/2.jpg",
+          "alt": "photo"
+        },
+        {
+          "id": 3,
+          "url": "https://avoreshin.github.io/json-api/Images/id21/3.jpg",
+          "alt": "photo"
+        }],
+      "price": "968 000",
+      "transmission": 	"автомат",
+      "drive_unit": "передний",
+      "body_type": "седан",
+      "color": "белый",
+      "Mileage":"134 200",
+      "contact": {
+        "name": "Aleksey",
+        "mobile": "+7-888-88-88",
+        "email": "alex1956@mail.ru"},
+      "description": "Теплый / светлый шоу-рум,\nЕжедневно с 09.00-22.00\nБолее 300 авто с пробегом в наличии"
     }
   ]
 }
